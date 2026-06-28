@@ -107,9 +107,10 @@
     "dataset": "County Boundaries",
     "org": "Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::counties-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/3/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/local-authority",
@@ -121,9 +122,10 @@
     "dataset": "Local Authority Boundaries",
     "org": "Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::local-electoral-areas-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/2/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/electoral-division",
@@ -135,9 +137,10 @@
     "dataset": "Electoral Divisions",
     "org": "CSO / Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::electoral-divisions-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/1/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/small-area",
@@ -149,9 +152,10 @@
     "dataset": "Small Areas (Census)",
     "org": "CSO / Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://census.geohive.ie",
+    "url": "https://census.geohive.ie/datasets/cso::census-2022-small-areas",
     "api": "ArcGIS REST / WMS / WFS (census.geohive.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services1.arcgis.com/eNO7HHeQ3rUcBllm/arcgis/rest/services/Census2022_Small_Areas/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/d-il-european-constituency",
@@ -163,9 +167,10 @@
     "dataset": "Constituency Boundaries",
     "org": "Dept Housing (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::dail-constituencies-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/4/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/civil-parish",
@@ -177,9 +182,10 @@
     "dataset": "Civil Parishes",
     "org": "Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::civil-parishes-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/5/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/barony",
@@ -205,9 +211,10 @@
     "dataset": "Townlands",
     "org": "Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::townlands-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/6/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/boundaries/nuts-regions-1-3",
@@ -219,9 +226,10 @@
     "dataset": "NUTS Boundaries",
     "org": "Eurostat / GeoHive",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::nuts-regions-osi-national-statutory-boundaries-2019",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/statistical-areas/aggregate-town-settlement",
@@ -233,9 +241,10 @@
     "dataset": "Settlements / Aggregate Town Boundaries",
     "org": "CSO / GeoHive",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data.gov.ie/dataset/settlements-osi-national-statutory-boundaries",
     "api": "ArcGIS REST / WMS / WFS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Statutory_Boundaries_2019/FeatureServer/7/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "administrative-statistical/local-authority-services/la-service-centres-civic-offices",
@@ -331,9 +340,10 @@
     "dataset": "OSi Gazetteer",
     "org": "Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::osi-placenames",
     "api": null,
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/Placenames/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "geographical-names/named-features/named-area-irish",
@@ -345,9 +355,10 @@
     "dataset": "Logainm – Irish Placenames Database",
     "org": "Dept Culture / Fiontar DCU",
     "access": "OPEN",
-    "url": "https://www.logainm.ie",
+    "url": "https://www.logainm.ie/api/v1.0/",
     "api": "ArcGIS REST / WMS (GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://www.logainm.ie/api/v1.0/?query=baile&limit=10&lang=en"
   },
   {
     "id": "geographical-names/named-features/named-point",
@@ -359,9 +370,10 @@
     "dataset": "Logainm / OSi Gazetteer",
     "org": "Tailte Éireann / Fiontar DCU",
     "access": "OPEN",
-    "url": "https://www.logainm.ie",
+    "url": "https://www.logainm.ie/api/v1.0/",
     "api": "Linked Data API / REST (api.logainm.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://www.logainm.ie/api/v1.0/?query=loch&limit=10&lang=en"
   },
   {
     "id": "geographical-names/named-features/named-road-junction",
@@ -471,9 +483,10 @@
     "dataset": "National Land Cover Map",
     "org": "Tailte Éireann",
     "access": "OPEN",
-    "url": "https://tailte.ie",
+    "url": "https://data.gov.ie/dataset/national-land-cover-map",
     "api": "WMS / WFS (data.gov.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=national-land-cover-map"
   },
   {
     "id": "land-cover-use/land-cover/corine-land-cover",
@@ -499,9 +512,10 @@
     "dataset": "Land Parcel Identification System (LPIS)",
     "org": "Dept Agriculture (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data.gov.ie/dataset/lpis-agricultural-land-parcels",
     "api": "WMS (EEA / Copernicus)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=lpis-agricultural-land-parcels"
   },
   {
     "id": "land-cover-use/land-use-features/development-site",
@@ -527,9 +541,10 @@
     "dataset": "Myplan.ie – Standardised Development Plan Zoning",
     "org": "Dept Housing / LAs (planning.geohive.ie)",
     "access": "OPEN",
-    "url": "https://myplan.ie",
+    "url": "https://myplan.ie/content/#/",
     "api": "ArcGIS REST API (planning.geohive.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://planning.geohive.ie/arcgis/rest/services/Myplan/MyplanOD/FeatureServer/0/query?where=1%3D1&outFields=ZoneCode,ZoneDescription,LocalAuthority&f=geojson"
   },
   {
     "id": "land-cover-use/land-use-features/functional-site-school-hospital-etc",
@@ -597,9 +612,10 @@
     "dataset": "LPIS Agricultural Parcels",
     "org": "Dept Agriculture (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::osi-field-boundaries",
     "api": "Licensed WMS (Tailte Éireann)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_25k_Map_Of_Ireland/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "structures/structure-features/compound-structure",
@@ -625,9 +641,10 @@
     "dataset": "National Road Network",
     "org": "TII (GeoHive)",
     "access": "OPEN",
-    "url": "https://www.geohive.ie",
+    "url": "https://data-osi.opendata.arcgis.com/datasets/osi::national-roads",
     "api": null,
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://services.arcgis.com/nHpNwi3OfKwK35Hn/arcgis/rest/services/OSi_National_Roads/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "transport/road-network/regional-road",
@@ -641,7 +658,8 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/regional-road",
     "api": "ArcGIS REST / WMS (GeoHive / TII)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=regional-road"
   },
   {
     "id": "transport/road-network/local-road",
@@ -821,9 +839,10 @@
     "dataset": "National Public Transport Access Nodes (NaPTAN)",
     "org": "NTA (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/national-public-transport-access-nodes-naptan",
+    "url": "https://data.gov.ie/dataset/national-public-transport-access-nodes-naptans",
     "api": "GTFS Feed (data.gov.ie / NTA)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=national-public-transport-access-nodes-naptans"
   },
   {
     "id": "transport/public-transport/bus-route",
@@ -837,7 +856,8 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/nta-gtfs",
     "api": "Download only (data.gov.ie)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://www.transportforireland.ie/transitData/PT_Data.zip"
   },
   {
     "id": "transport/public-transport/bus-lane",
@@ -919,9 +939,10 @@
     "dataset": "Public Bins / Waste Facilities (LA datasets)",
     "org": "Local Authorities (data.gov.ie)",
     "access": "PARTIAL",
-    "url": "https://data.gov.ie",
+    "url": "https://data.gov.ie/dataset/public-bins-and-waste-facilities",
     "api": "Download only (data.gov.ie)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=public-bins-and-waste-facilities"
   },
   {
     "id": "water/water-features/water-body-lake-pond-reservoir",
@@ -1087,9 +1108,10 @@
     "dataset": "OPW Hydrometric Network Real-time Water Level Data",
     "org": "Office of Public Works (data.gov.ie / waterlevel.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/opw-hydrometric-network-real-time-water-level-data",
+    "url": "https://data.gov.ie/dataset/opw-hydrometric-network-real-time-water-levels",
     "api": "GeoJSON REST API (data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=opw-hydrometric-network-real-time-water-levels"
   },
   {
     "id": "water/flood-management/opw-flood-risk-areas-pfra-cfram",
@@ -1101,9 +1123,10 @@
     "dataset": "PFRA Preliminary Flood Risk Assessment / CFRAM",
     "org": "Office of Public Works (floodinfo.ie)",
     "access": "OPEN",
-    "url": "https://www.floodinfo.ie",
+    "url": "https://www.floodinfo.ie/map/floodmaps/",
     "api": "REST API / JSON (waterlevel.ie + data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=pfra-preliminary-flood-risk-areas"
   },
   {
     "id": "water/flood-management/opw-arterial-drainage-schemes",
@@ -1129,9 +1152,10 @@
     "dataset": "INSPIRE WFD Lake Waterbodies",
     "org": "EPA (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-lake-waterbodies-hvd",
+    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-lake-waterbodies",
     "api": "Download only (data.gov.ie)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://gis.epa.ie/arcgis/rest/services/EPA/EPA_WFD/MapServer/1/query?where=1%3D1&outFields=WaterBodyName,Category,Status&f=geojson"
   },
   {
     "id": "water/wfd-waterbodies/wfd-river-waterbodies",
@@ -1143,9 +1167,10 @@
     "dataset": "INSPIRE WFD River Waterbodies",
     "org": "EPA (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-river-waterbodies-hvd",
+    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-river-waterbodies",
     "api": "WMS / WFS (EPA data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.epa.ie/arcgis/rest/services/EPA/EPA_WFD/MapServer/0/query?where=1%3D1&outFields=WaterBodyName,Category,Status&f=geojson"
   },
   {
     "id": "water/wfd-waterbodies/wfd-coastal-waterbodies",
@@ -1157,9 +1182,10 @@
     "dataset": "INSPIRE WFD Coastal Waterbodies",
     "org": "EPA (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-coastal-waterbodies-hvd",
+    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-coastal-waterbodies",
     "api": "WMS / WFS (EPA data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.epa.ie/arcgis/rest/services/EPA/EPA_WFD/MapServer/2/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "water/wfd-waterbodies/wfd-transitional-waterbodies-estuaries",
@@ -1213,9 +1239,10 @@
     "dataset": "INSPIRE WFD Protected Areas – Bathing Water Areas",
     "org": "EPA (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-register-of-protected-areas-bathing-water-areas-hvd",
+    "url": "https://data.gov.ie/dataset/inspire-water-framework-directive-bathing-waters",
     "api": "WMS / XML (EPA data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.epa.ie/arcgis/rest/services/EPA/EPA_WFD/MapServer/5/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "water/wfd-protected-areas/wfd-sensitive-areas-wastewater",
@@ -1243,7 +1270,8 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/wfd-areas-for-action-cycle-3",
     "api": "WMS / XML (EPA data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=wfd-areas-for-action-cycle-3"
   },
   {
     "id": "property-land-registration/registered-land/cadastral-parcel-inspire",
@@ -1355,7 +1383,8 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/valuation-office-api",
     "api": "REST JSON API (data.gov.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://api.valoff.ie/api/Property/GetProperties?Fields=*&LocalAuthority=DUBLIN+CITY+COUNCIL&CategorySelected=OFFICE&Limit=10&iStatisticsQuery=true"
   },
   {
     "id": "valuation/commercial-valuation/valuation-map-viewer",
@@ -1535,9 +1564,10 @@
     "dataset": "INFOMAR Seabed Habitat Maps",
     "org": "GSI / Marine Institute",
     "access": "OPEN",
-    "url": "https://www.infomar.ie",
+    "url": "https://www.infomar.ie/data/",
     "api": "WMS / WCS / REST API (infomar.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://atlas.marine.ie/arcgis/rest/services/seabed/seabed_habitats/MapServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "marine-coastal/marine-spatial-planning/ireland-s-marine-atlas",
@@ -1551,7 +1581,8 @@
     "access": "OPEN",
     "url": "https://atlas.marine.ie",
     "api": "WMS / REST (infomar.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://atlas.marine.ie/arcgis/rest/services/Marine_Atlas/MapServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "marine-coastal/marine-spatial-planning/marine-protected-areas",
@@ -1563,9 +1594,10 @@
     "dataset": "SACs / SPAs / NHAs (marine)",
     "org": "NPWS / EPA",
     "access": "OPEN",
-    "url": "https://www.npws.ie",
+    "url": "https://www.npws.ie/protected-sites/mpa",
     "api": "ArcGIS REST (atlas.marine.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.nature.ie/arcgis/rest/services/NaturalHeritage/Protected_Areas/MapServer/3/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "marine-coastal/tidal-coastal/tidal-gauge-network",
@@ -1591,9 +1623,10 @@
     "dataset": "Bedrock Geology of Ireland",
     "org": "GSI (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx",
+    "url": "https://www.gsi.ie/en-ie/data-and-maps/Pages/Bedrock.aspx",
     "api": "REST API (marine.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://spatial.dcenr.gov.ie/arcgis/rest/services/GSI/GSI_Bedrock_Geology/MapServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "environment/geology/quaternary-geology",
@@ -1605,9 +1638,10 @@
     "dataset": "Quaternary Geology / Geomorphology",
     "org": "GSI (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/quaternary-geomorphology-150000-ireland-roi-itm",
+    "url": "https://data.gov.ie/dataset/quaternary-geomorphology-150000-map-of-ireland",
     "api": "WMS / WFS (gsi.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=quaternary-geomorphology-150000-map-of-ireland"
   },
   {
     "id": "environment/ecology-protected-areas/special-area-of-conservation-sac",
@@ -1619,9 +1653,10 @@
     "dataset": "Natura 2000 – SAC Boundaries",
     "org": "NPWS (data.gov.ie / GeoHive)",
     "access": "OPEN",
-    "url": "https://www.npws.ie",
+    "url": "https://www.npws.ie/maps-and-data/national-heritage-areas/sac",
     "api": "WMS / WFS (data.gov.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.nature.ie/arcgis/rest/services/NaturalHeritage/Protected_Areas/MapServer/1/query?where=1%3D1&outFields=SITE_NAME,STATUS,BIOGEOGRAPH&f=geojson"
   },
   {
     "id": "environment/ecology-protected-areas/special-protection-area-spa",
@@ -1633,9 +1668,10 @@
     "dataset": "Natura 2000 – SPA Boundaries",
     "org": "NPWS (data.gov.ie / GeoHive)",
     "access": "OPEN",
-    "url": "https://www.npws.ie",
+    "url": "https://www.npws.ie/maps-and-data/national-heritage-areas/spa",
     "api": "WMS / WFS (npws.ie / GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.nature.ie/arcgis/rest/services/NaturalHeritage/Protected_Areas/MapServer/2/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "environment/ecology-protected-areas/natural-heritage-area-nha",
@@ -1647,9 +1683,10 @@
     "dataset": "NHA Boundaries",
     "org": "NPWS (data.gov.ie / GeoHive)",
     "access": "OPEN",
-    "url": "https://www.npws.ie",
+    "url": "https://www.npws.ie/maps-and-data/national-heritage-areas",
     "api": "WMS / WFS (npws.ie / GeoHive)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://gis.nature.ie/arcgis/rest/services/NaturalHeritage/Protected_Areas/MapServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "environment/environmental-monitoring/epa-noise-mapping-round-4",
@@ -1731,9 +1768,10 @@
     "dataset": "INSPIRE E-PRTR Sites and Facilities",
     "org": "EPA (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/dataset/inspire-e-prtr-sites-and-facilities-hvd",
+    "url": "https://data.gov.ie/dataset/inspire-e-prtr-sites-and-facilities",
     "api": "WMS (EPA data.gov.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=inspire-e-prtr-sites-and-facilities"
   },
   {
     "id": "environment/licensed-facilities/e-prtr-emission-data-hvd",
@@ -1747,7 +1785,8 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/inspire-e-prtr-emission-data-hvd",
     "api": "WMS / XML (EPA data.gov.ie HVD)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=inspire-e-prtr-emission-data-hvd"
   },
   {
     "id": "environment/groundwater/groundwater-monitoring-bodies",
@@ -1801,9 +1840,10 @@
     "dataset": "NPAD – National Planning Application Database",
     "org": "Dept Housing / LAs (planning.geohive.ie)",
     "access": "OPEN",
-    "url": "https://planning.geohive.ie",
+    "url": "https://planning.geohive.ie/pages/09ea8dcbbf904377b7050aec784229a5",
     "api": "REST API (met.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://planning.geohive.ie/arcgis/rest/services/Planning/NPADPlanningApplicationsOD/FeatureServer/0/query?where=1%3D1&outFields=ApplicationStatus,AppType,LocalAuthority&f=geojson"
   },
   {
     "id": "planning-development/planning-applications/local-authority-planning-applications",
@@ -1815,9 +1855,10 @@
     "dataset": "LA Planning Applications (DCC, DLR, Roscommon etc.)",
     "org": "Local Authorities (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie",
+    "url": "https://data.gov.ie/dataset/planning-applications",
     "api": "ArcGIS REST API (planning.geohive.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=planning-applications"
   },
   {
     "id": "planning-development/planning-zoning/myplan-ie-standardised-development-plan-zoning",
@@ -1829,9 +1870,10 @@
     "dataset": "Myplan.ie Zoning Map (composite all 31 LAs)",
     "org": "Dept Housing / LAs (planning.geohive.ie)",
     "access": "OPEN",
-    "url": "https://myplan.ie",
+    "url": "https://myplan.ie/content/#/",
     "api": "Download only (data.gov.ie)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://planning.geohive.ie/arcgis/rest/services/Myplan/MyplanOD/FeatureServer/0/query?where=1%3D1&outFields=ZoneCode,ZoneDescription,LocalAuthority&f=geojson"
   },
   {
     "id": "planning-development/planning-zoning/residential-zoned-land-tax-rzlt-map",
@@ -1843,9 +1885,10 @@
     "dataset": "Residential Zoned Land Tax Dataset",
     "org": "Revenue / Dept Housing / LAs (planning.geohive.ie)",
     "access": "OPEN",
-    "url": "https://planning.geohive.ie",
+    "url": "https://planning.geohive.ie/pages/rzlt",
     "api": "ArcGIS REST / WMS (planning.geohive.ie / myplan.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://planning.geohive.ie/arcgis/rest/services/RZLT/RZLT_Map/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "planning-development/building-control/commencement-notices-bcms",
@@ -1885,9 +1928,10 @@
     "dataset": "Census 2022 – Small Area Population Statistics",
     "org": "CSO (census.geohive.ie)",
     "access": "OPEN",
-    "url": "https://census.geohive.ie",
+    "url": "https://census.geohive.ie/",
     "api": "ArcGIS REST (rdm.geohive.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services1.arcgis.com/eNO7HHeQ3rUcBllm/arcgis/rest/services/Census2022_Small_Areas/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "statistical/census/census-2022-boundary-files",
@@ -1899,9 +1943,10 @@
     "dataset": "Census 2022 Boundaries (SA, ED, County)",
     "org": "CSO / Tailte Éireann (GeoHive)",
     "access": "OPEN",
-    "url": "https://census.geohive.ie",
+    "url": "https://census.geohive.ie/datasets/cso::census-2022-small-areas",
     "api": "CSO PxStat API (census.geohive.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://services1.arcgis.com/eNO7HHeQ3rUcBllm/arcgis/rest/services/Census2022_Small_Areas/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
   },
   {
     "id": "statistical/property-market/property-price-register",
@@ -1913,9 +1958,10 @@
     "dataset": "Residential Property Price Register",
     "org": "PSRA / Revenue (propertypriceregister.ie)",
     "access": "OPEN",
-    "url": "https://www.propertypriceregister.ie",
+    "url": "https://www.propertypriceregister.ie/website/npsra/pprweb.nsf/PPR?OpenForm",
     "api": "ArcGIS REST (census.geohive.ie)",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_search?q=property+price+register&rows=3"
   },
   {
     "id": "statistical/property-market/commercial-property-valuation-database",
@@ -1941,9 +1987,10 @@
     "dataset": "Water Supply Zones",
     "org": "Uisce Éireann (water.ie)",
     "access": "OPEN",
-    "url": "https://www.water.ie/open-data",
+    "url": "https://data.gov.ie/dataset/water-supply-zones",
     "api": "Download only (XLSX)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=water-supply-zones"
   },
   {
     "id": "utilities-energy/water-supply-infrastructure/district-metered-areas-dma",
@@ -1969,9 +2016,10 @@
     "dataset": "Water Treatment Plants",
     "org": "Uisce Éireann (water.ie)",
     "access": "OPEN",
-    "url": "https://www.water.ie/open-data",
+    "url": "https://data.gov.ie/dataset/water-treatment-plants",
     "api": "Download only (XLSX)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=water-treatment-plants"
   },
   {
     "id": "utilities-energy/water-supply-infrastructure/water-pumping-stations",
@@ -2039,9 +2087,10 @@
     "dataset": "Wastewater Treatment Plants",
     "org": "Uisce Éireann (water.ie)",
     "access": "OPEN",
-    "url": "https://www.water.ie/open-data",
+    "url": "https://data.gov.ie/dataset/wastewater-treatment-plants",
     "api": "Download only (XLSX)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=wastewater-treatment-plants"
   },
   {
     "id": "utilities-energy/wastewater-infrastructure/wastewater-pumping-stations",
@@ -2069,7 +2118,8 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/offshore-gas-pipeline",
     "api": "Download only (Shapefile)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=offshore-gas-pipeline"
   },
   {
     "id": "utilities-energy/gas-network/onshore-gas-pipeline-network-viewer-only",
@@ -2125,7 +2175,8 @@
     "access": "OPEN",
     "url": "https://www.smartgriddashboard.com",
     "api": "JSON API (undocumented) / CSV download",
-    "hasApi": true
+    "hasApi": true,
+    "apiEndpoint": "https://www.smartgriddashboard.com/DashboardService.svc/data?area=all&region=ROI"
   },
   {
     "id": "utilities-energy/electricity-distribution/network-capacity-heatmap",
@@ -2165,9 +2216,10 @@
     "dataset": "SEAI Wind Atlas – Mean Onshore Wind Speed & Power",
     "org": "SEAI (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/organization/sustainable-energy-authority-of-ireland",
+    "url": "https://data.gov.ie/dataset/wind-atlas-ireland",
     "api": "Download only (SHP / ZIP)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=wind-atlas-ireland"
   },
   {
     "id": "utilities-energy/renewable-energy-resources/wind-atlas-offshore-wind-speed-power-gis",
@@ -2193,9 +2245,10 @@
     "dataset": "Connected Wind Farm Locations",
     "org": "SEAI (data.gov.ie)",
     "access": "OPEN",
-    "url": "https://data.gov.ie/organization/sustainable-energy-authority-of-ireland",
+    "url": "https://data.gov.ie/dataset/connected-wind-farm-locations",
     "api": "Download only (SHP)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=connected-wind-farm-locations"
   },
   {
     "id": "utilities-energy/renewable-energy-resources/hydro-energy-connections-gis",
@@ -2223,6 +2276,7 @@
     "access": "OPEN",
     "url": "https://data.gov.ie/dataset/ber-research-tool",
     "api": "Download only (CSV)",
-    "hasApi": false
+    "hasApi": false,
+    "apiEndpoint": "https://data.gov.ie/api/3/action/package_show?id=ber-research-tool"
   }
 ]
